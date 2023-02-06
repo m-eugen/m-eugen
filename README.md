@@ -1,4 +1,6 @@
 ### Hi there 👋
+Hi, I am a Frontend Developer with more than 5 years of web development experience. Specializes in the development of complex web solutions using JS, TS, React
+
 
 <!--
 **m-eugen/m-eugen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
