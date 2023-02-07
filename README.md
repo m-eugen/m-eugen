@@ -1,6 +1,5 @@
 ## Hi there 👋
 
----
 Hi, I am a Frontend Developer with more than 5 years of web development experience. Specializes in the development of complex web solutions using JS, TS, React
 
 - 🔭 I’m currently working on cool
